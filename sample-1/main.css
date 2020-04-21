@@ -1,8 +1,13 @@
-section {
-    background: rgb(150, 201, 224);
+#product-overview {
+    background: rgb(116, 117, 117);
 }
+.section-title {
+    color: teal;
+}
+
 
 h1 {
     color: white;
     font-family: 'Anton', sans-serif;
 }
+
